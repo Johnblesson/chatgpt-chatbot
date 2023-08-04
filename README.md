@@ -23,4 +23,3 @@ Run the bot:
 ```bash
 npm start
 ```
-## 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
